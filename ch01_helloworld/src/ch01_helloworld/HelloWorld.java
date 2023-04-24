@@ -20,7 +20,7 @@ https://github.com/RadeonHD6750/GitSample.git
 //Commit 테스트
 public class HelloWorld 
 {
-	
+	//아무거나 써서 작업하기
 	public static void main(String[] args)
 	{
 		System.out.println("Hello World");
