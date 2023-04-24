@@ -25,5 +25,6 @@ public class HelloWorld
 	{
 		System.out.println("Hello World");
 	}
+	//원격 저장소에서 직접 편집
 
 }
