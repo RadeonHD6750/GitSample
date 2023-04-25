@@ -38,5 +38,4 @@ public class HelloWorld
 	//이력 8
 	//이력 9
 	//이력 10
-	//이력 11
 }
